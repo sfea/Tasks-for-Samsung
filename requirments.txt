@@ -1,0 +1,7 @@
+numpy==1.13.3
+torch==0.3.1
+scipy==1.0.0
+sklearn==0.19.1
+imageio==2.3.0
+cv2==3.3.1
+matplotlib==2.1.0
